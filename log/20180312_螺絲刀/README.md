@@ -22,3 +22,12 @@
 
 * SKYY的vodka挺常見 新手選擇恐懼症的話推薦
 * .._:(´_`」 ∠):_ …煩 工作日也來一杯
+
+## 配图
+
+<div style="inline-block">
+<img src="1.jpeg" width=25%>
+<img src="2.jpeg" width=25%>
+</div>
+
+

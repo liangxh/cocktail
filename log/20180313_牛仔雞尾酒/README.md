@@ -25,3 +25,12 @@
 * 沒有雪克杯的話用勺子攪拌也可以, 多攪一下
 
 PS 啊 又淆過一天.._:(´_`」 ∠):_ …
+
+## 配图
+
+<div style="inline-block">
+<img src="1.jpeg" width=25%>
+<img src="2.jpeg" width=25%>
+</div>
+
+

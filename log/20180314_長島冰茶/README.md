@@ -29,3 +29,12 @@
 ## PS
 
 * 老是一種酒混一種軟飲好像忽悠人, 今天來個複雜的 ｸﾞｯ!(๑•̀ㅂ•́)و✧
+
+## 配图
+
+<div style="inline-block">
+<img src="1.jpeg" width=25%>
+<img src="2.jpeg" width=25%>
+</div>
+
+

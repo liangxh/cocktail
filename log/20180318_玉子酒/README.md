@@ -18,3 +18,14 @@
 # 備注
 
 * 日本民間治療感冒飲品
+
+## 配图
+
+<div style="inline-block">
+<img src="1.jpeg" width=25%>
+<img src="2.jpeg" width=25%>
+<img src="3.jpeg" width=25%>
+<img src="4.jpeg" width=25%>
+</div>
+
+

@@ -18,3 +18,11 @@
 
 * 簡單
 * 易入口，女士推薦
+
+## 配图
+
+<div style="inline-block">
+<img src="1.jpeg" width=25%>
+</div>
+
+

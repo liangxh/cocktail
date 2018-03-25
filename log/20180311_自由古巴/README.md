@@ -20,7 +20,7 @@
 
 ## 配图
 
+<div style="inline-block">
 <img src="1.jpeg" width=25%>
 <img src="2.jpeg" width=25%>
-
-
+</div>

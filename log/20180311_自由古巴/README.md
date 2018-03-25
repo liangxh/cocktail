@@ -20,7 +20,7 @@
 
 ## 配图
 
-<img src="1.jpeg" width=50%>
-<img src="2.jpeg" width=50%>
+<img src="1.jpeg" width=25%>
+<img src="2.jpeg" width=25%>
 
 

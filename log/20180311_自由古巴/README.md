@@ -20,7 +20,7 @@
 
 ## 配图
 
-![](1.jpeg)
-![](2.jpeg)
+<img src="1.jpeg" width=50%>
+<img src="2.jpeg" width=50%>
 
 
